@@ -4,6 +4,4 @@
 
 
 
-Generative Art
-
-Used the Hype Framework and Processing language to make a revolving star with randomly selected colors from a defined range.
+Generative Art: Used the Hype Framework and Processing language to make a revolving star with randomly selected colors from a defined range.
