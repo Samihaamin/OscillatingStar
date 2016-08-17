@@ -19,22 +19,12 @@ import java.io.OutputStream;
 import java.io.IOException; 
 
 public class Oscillating_Star extends PApplet {
-
-
-
-
-
-
-
+  
 HColorPool colors;
 
 public void setup() {
   
   H.init(this).background(0xff111111);
-  
-
-
-
   colors = new HColorPool(0xffB26C6C, 0xff6C82B2, 0xff6CB2B0, 0xffB26E6C, 0xff311716, 0xffF2E4E3 );
 
   int starScale = 450;
@@ -64,8 +54,6 @@ public void setup() {
 }
 
 public void draw() {
-  
- 
   
   H.drawStage();
 }
