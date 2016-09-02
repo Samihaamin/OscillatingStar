@@ -1,11 +1,11 @@
-# GIF-Preview
+# Oscillating Star
 
 ![alt tag](https://github.com/Samihaamin/RevolvingStar/blob/master/giphy.gif)
 
 
-# Algorithm
+### Algorithm
 A loop of oscillating stars decrementing in size with randomly selected colors from a defined range.
 
-# Technologies used
-* [Processing](http://foundation.processing.org/)
-* [Hype](http://www.hypeframework.org)
+### Technologies used
+* [Processing](http://foundation.processing.org/) Programming Language & IDE
+* [Hype](http://www.hypeframework.org) Framework for Processing
